@@ -1,0 +1,12 @@
+
+body {
+  margin: 0;
+}
+nav {
+  background-color: gray;
+  text-align: center;
+  display: flex;
+  place-content: center;
+}
+
+ 

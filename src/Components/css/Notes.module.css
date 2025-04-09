@@ -1,0 +1,17 @@
+.note {
+  border: 1px black solid;
+  margin: 10px;
+}
+.note p, h3{
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.editnote {
+  width: 99%;
+  height: 99vh;
+  display: flex;
+}
+.noteLink{
+  text-decoration: none;
+}

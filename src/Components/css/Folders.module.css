@@ -1,0 +1,21 @@
+.folders{
+  display: flex;
+  margin: 5px;
+  overflow: auto;
+}
+.folder {
+  background: black;
+  color: white;
+  margin: 5px;
+  text-decoration: none;
+}
+:root{
+  width: auto;
+}
+.addFolder{
+  background: black;
+  color: white;
+  width: 25px;
+  margin: 5px;
+  text-align: center;
+}
